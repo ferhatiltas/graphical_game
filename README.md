@@ -17,7 +17,7 @@ To test the application, click the [here](https://github.com/ferhatiltas/graphic
 
 Graphical Game Movie
 :-------------------------:
-![original-design](https://github.com/ferhatiltas/graphical_game/blob/main/game.gif)
+![original-design](https://github.com/ferhatiltas/graphical_game/blob/main/game.gif?raw=true)
 
 ## :rocket: Technologies ##
 
