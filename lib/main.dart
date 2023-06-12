@@ -4,7 +4,6 @@ import 'package:sizer/sizer.dart';
 
 import 'core/init/product_context.dart';
 import 'core/init/project_initialize.dart';
-import 'core/theme/palette_primary_color.dart';
 import 'features/onboarding/view/onboarding_view.dart';
 
 void main() async {
@@ -26,9 +25,6 @@ class _MyApp extends StatelessWidget {
         return MaterialApp(
           title: 'Graphical  Game',
           debugShowCheckedModeBanner: false,
-          theme: ThemeData(
-            colorScheme: ColorScheme.fromSwatch(primarySwatch: PalettePrimary.primaryColor),
-          ),
           home: const OnboardingView(),
         );
       },

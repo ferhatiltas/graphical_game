@@ -6,13 +6,13 @@ class ApplicationConstants {
   }
 
   ApplicationConstants._init();
-  final String onboardTitle1 = "Matematiğiniz Geliştirin";
+  final String onboardTitle1 = "Grafik Bulmacaları";
   final String onboardDescription1 =
-      "Uygulamada size sorulan matematik sorularını çözüp doğru cevabı bulduğunuzda doğru cevabı bulmaca içinden bulup işeretleyin ve puanları toplayın.";
-  final String onboardTitle2 = "Görsel Zeka";
+      "Eğlenceli grafiklerle dolu bulmacalarla çocukların matematiksel yeteneklerini geliştirdikleri keyifli bir uygulama";
+  final String onboardTitle2 = "Renkli Grafik Analizi";
   final String onboardDescription2 =
-      "Sorulan sorularda doğru cevabı çözdükten sonra bulmaca içinden ilgili cevabı bulun böylelikle görsel zekanız ve problem çözme yeteneğiniz artsın.";
-  final String onboardTitle3 = "Cevapları İşaretleyin";
+      "Çocuklar, renkli grafikler aracılığıyla matematiksel becerilerini geliştirirken veri analizi ve yorumlama yeteneklerini keşfediyorlar.";
+  final String onboardTitle3 = "Grafiklerle Matematik Oyunları";
   final String onboardDescription3 =
-      'Çözdüğünüz soruların cevaplarını bulmacada işaretleyin böylelikle tüm bulmacayı çözmüş ve parçaları birleştirmiş olacaksınız. Sonraki sorular daha zevkli... :)';
+      'Bu uygulama, çocukların matematiksel kavramları eğlenceli oyunlarla grafikler üzerinden öğrenmelerini sağlayan interaktif bir deneyim sunuyor.';
 }
